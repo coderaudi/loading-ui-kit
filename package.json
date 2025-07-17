@@ -1,6 +1,6 @@
 {
   "name": "loading-ui-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A universal and reusable loading component for Next.js, React, and React Native with support for custom logos and texts.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
